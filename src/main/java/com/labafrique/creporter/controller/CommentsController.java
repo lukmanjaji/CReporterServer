@@ -8,7 +8,7 @@ package com.labafrique.creporter.controller;
 import com.google.gson.Gson;
 import com.labafrique.creporter.model.CommentsModel;
 import com.labafrique.creporter.repository.CommentsRepository;
-import java.util.List;
+//import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
